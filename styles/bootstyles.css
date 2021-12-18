@@ -1,0 +1,92 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #d6e6d8;
+    background-image: url(../images/img/purplejazz.png);
+    
+}
+.title{
+    
+     margin: auto;
+    width: 50%;
+    border: 3px solid rgb(255, 255, 255);
+    display: inline-flexbox;
+    padding: 10px;
+    font-size: 60px;
+     
+}
+
+.link{
+    font-size: 20px;
+    color: #d6e6d8;
+    
+}
+.text-center{
+    text-align: center;
+  }
+
+.captions{
+    font-family:Serif, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #d6e6d8;
+    border: solid 2px white;
+    
+}
+a:visited {
+    color: rgb(136, 138, 241);
+  }
+
+.tab1{
+
+
+
+
+}
+.tab2{
+    
+
+
+    
+}
+.tab3{
+    
+
+
+    
+}
+.tab4{
+   
+
+
+    
+}
+
+
+
+.footer{
+    font-family:Serif, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #707471;
+    border: solid 2px white;
+    bottom:  5px;
+    height: 50px;
+    right: 5px;
+    left: 5px;
+
+}
+
+.common{
+    background-color: #ebf1f1;
+    border: solid 2px white;
+    position: absolute;
+
+}
+
+.headers{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
